@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{8D5555E4-B7DC-4087-88A8-E50936765172}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{5441F764-3F54-4078-B71B-38AB417F5AD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Indicator", "src\Indicator\Indicator.csproj", "{0DA49F29-17DE-4322-84DE-05D733C68EC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{0DA49F29-17DE-4322-84DE-05D733C68EC1} = {8D5555E4-B7DC-4087-88A8-E50936765172}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DA49F29-17DE-4322-84DE-05D733C68EC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DA49F29-17DE-4322-84DE-05D733C68EC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DA49F29-17DE-4322-84DE-05D733C68EC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DA49F29-17DE-4322-84DE-05D733C68EC1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,1 +1,1 @@
-# indicator-warmup
+# Showcase [#1167](https://github.com/JKorf/Binance.Net/issues/1167)
